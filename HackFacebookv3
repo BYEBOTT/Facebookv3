@@ -1,0 +1,8 @@
+Pkg update
+Pkg upgrade
+Pkg install pyhton2
+Plg install git
+Git clone https://github.com/hackv3/Facebook3
+Ls
+Cd facebookv3
+Pyhton2 facebookv3.py
